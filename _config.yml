@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "VPA 18"
-keywords:    "performance, visual, analysis, analytics"
-description: "VPA 18 Website"
-source_link: "https://vpa18.github.io"
+title:       "ProTools 19"
+keywords:    "performance, tools, parallel programming, visual, analysis, analytics"
+description: "ProTools 19 Website"
+source_link: "https://protools19.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
