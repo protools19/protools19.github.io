@@ -22,7 +22,3 @@ Felix Wolf, TU Darmstadt, Germany
 
 To be announced
 
-Sponsors: SPPEXA (Research Program by German government funding organization DFG)
-<img src="img/sppexa.png"/>
-{: style="text-align: center"}
-
