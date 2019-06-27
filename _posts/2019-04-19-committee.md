@@ -27,7 +27,7 @@ Alexandru Calotoiu, Technical University Darmstadt\\
 Karl Fürlinger, Ludwig Maximilian University of Munich, Germany\\
 Todd Gamblin, Lawrence Livermore National Laboratory\\
 Judit Gimenez, Barcelona Supercomputing Center\\
-Marc-Andre Hermanns, Juelich Supercomputing Center\\
+Marc-Andre Hermanns, RWTH Aachen University\\
 Katherine Isaacs, University of Arizona\\
 William Jalby, Université de Versailles St-Quentin-en-Yvelines, France\\
 Andreas Knüpfer, Technical University Dresden,Germany\\
