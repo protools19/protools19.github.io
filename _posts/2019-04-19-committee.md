@@ -7,7 +7,7 @@ fa-icon: users
 
 ## Workshop Chairs
 
-Abhinav Bhatele, Lawrence Livermore National Laboratory, USA\\
+Abhinav Bhatele, University of Maryland, College Park, USA\\
 David Boehme, Lawrence Livermore National Laboratory, USA\\
 Tom Vierjahn, Westphalian University of Applied Sciences, Germany\\
 Josef Weidendorfer, Leibniz Supercomputing Centre Munich, Germany
