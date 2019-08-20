@@ -12,6 +12,7 @@ David Boehme, Lawrence Livermore National Laboratory, USA\\
 Tom Vierjahn, Westphalian University of Applied Sciences, Germany\\
 Josef Weidendorfer, Leibniz Supercomputing Centre Munich, Germany
 
+Contact e-mail: <a href="mailto:sc-ws-protools@info.supercomputing.org">sc-ws-protools@info.supercomputing.org</a>.
 
 ### Keynote Chair
 
