@@ -1,0 +1,82 @@
+============================================================
+                                Call for Papers
+  Workshop on Programming and Performance Visualization Tools (ProTools 19)
+          Held in conjunction with SC19, in cooperation with TCHPC.
+                               Denver, CO, USA
+                              November 17, 2019
+                       https://protools19.github.io
+                   Submission Deadline: September 9, 2019
+============================================================
+
+Understanding program behavior is critical to overcome the expected
+architectural and programming complexities, such as limited power budgets,
+heterogeneity, hierarchical memories, shrinking I/O bandwidths, and performance
+variability, that arise on modern HPC platforms. To do so, HPC software
+developers need intuitive support tools for debugging, performance measurement,
+analysis, and tuning of large-scale HPC applications. Moreover, data collected
+from these tools such as hardware counters, communication traces, and network
+traffic can be far too large and too complex to be analyzed in a
+straightforward manner. We need new automatic analysis and visualization
+approaches to help application developers intuitively understand the multiple,
+interdependent effects that algorithmic choices have on application correctness
+or performance. The ProTools workshop combines two prior SC workshops: the
+Workshop on Visual Performance Analytics (VPA) and the Workshop on
+Extreme-Scale Programming Tools (ESPT).
+
+The Workshop on Programming and Performance Visualization Tools (ProTools)
+intends to bring together HPC application developers, tool developers, and
+researchers from the visualization, performance, and program analysis fields
+for an exchange of new approaches to assist developers in analyzing,
+understanding, and optimizing programs for extreme-scale platforms.
+
+Workshop Topics:
+
+Topics include, but are not limited to:
+* Performance tools for scalable parallel platforms
+* Debugging and correctness tools for parallel programming paradigms
+* Scalable displays of performance data
+* Case studies demonstrating the use of performance visualization in practice
+* Program development tool chains (incl. IDEs) for parallel systems
+* Methodologies for performance engineering
+* Data models to enable scalable visualization
+* Graph representation of unstructured performance data
+* Tool technologies for extreme-scale challenges (e.g., scalability, resilience, power)
+* Tool support for accelerated architectures and large-scale multi-cores
+* Presentation of high-dimensional data
+* Visual correlations between multiple data source
+* Measurement and optimization tools for networks and I/O
+* Tool infrastructures and environments
+* Human-Computer Interfaces for exploring performance data
+* Multi-scale representations of performance data for visual exploration
+* Application developer experiences with programming and performance tools
+
+Paper Submission:
+
+We solicit 8-page full papers as well as 4-page short papers and position
+papers that focus on performance, debugging, and correctness tools for parallel
+programming paradigms as well as techniques and case studies at the
+intersection of performance analysis and visualization.
+
+Papers must be submitted in PDF format (readable by Adobe Acrobat Reader 5.0
+and higher) and formatted for 8.5” x 11” (U.S. Letter). Submissions are limited
+to 8 pages in the IEEE Conference format
+(https://www.ieee.org/conferences/publishing/templates.html), using the
+sample-sigconf template.  The 8-page limit includes figures, tables, and
+references.
+
+All papers must be submitted through the Supercomputing 2019 Linklings site:
+http://submissions.supercomputing.org/
+
+Important Dates:
+
+* Submission deadline (extended): September 9, 2019 (AoE)
+* Notification of acceptance: September 30, 2019 (AoE)
+* Camera-ready deadline: October 7, 2019 (AoE)
+* Workshop: November 17, 2019
+
+Workshop Chairs:
+
+Abhinav Bhatele, University of Maryland, College Park, USA
+David Boehme, Lawrence Livermore National Laboratory, USA
+Tom Vierjahn, Westphalian University of Applied Sciences, Germany
+Josef Weidendorfer, Leibniz Supercomputing Centre Munich, Germany
